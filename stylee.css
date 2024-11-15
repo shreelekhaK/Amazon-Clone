@@ -1,0 +1,39 @@
+div{
+    /* height: 150px;
+    width: 100px; */
+    /* if both are same then will get a circle */
+    /* background-color: burlywood; */
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: slateblue; */
+    /* text-align: center;*/
+    /* border: 3px solid black;  */
+    /* border-radius: 20%; */
+    /* border-radius: 50px; */
+    /* padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 50px; */
+    /* margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 20px; */
+    /* background-color: green;
+    border-radius: 50%;
+    text-align: center; */
+    /* display: inline; */
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+    background-color: rgba(255,0,0,1);
+
+}
+/* button{
+    display: inline;
+} */
+
+/* #box2{
+    visibility: hidden;
+} */

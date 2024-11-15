@@ -1,0 +1,17 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border: 20px solid #561D25;
+    border-radius: 50%;
+    border-top: 20px solid #CE8147;
+    animation-name: spinAnimate;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+@keyframes spinAnimate{
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}

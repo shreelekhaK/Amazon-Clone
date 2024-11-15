@@ -1,0 +1,61 @@
+/* /* h1{
+    color:yellow;
+} */
+
+/* p{
+    color:aquamarine;
+}
+
+button{
+    color:blueviolet;
+    background-color: aliceblue;
+}
+/* body{
+    background-color: rgb(200,255,0);
+} */
+/* body{
+    background-color:#03b6fc;
+} */ 
+
+/* *{
+    color:whitesmoke;
+}
+#HeadingOne{
+    color:blueviolet;
+}
+.myClass{
+    color:goldenrod;
+}  */
+
+/* #box{
+    background-color: blue;
+    color:white;
+}
+.heading{
+    color: red;
+}
+/* button{
+    color: green;
+} */
+/* p{
+    text-align: center;
+    text-decoration: blueviolet center;
+    font-family: Arial;
+    font-size: 25px;
+    line-height: 50px;
+    text-transform: uppercase;
+} */ 
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+*{
+    font-family: 'Times New Roman';
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
